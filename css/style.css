@@ -95,5 +95,11 @@ p {
 .thumbnail { 
 	width:150px;
 	height:150px;
+	float:left;
+	border:1px solid white;
+	margin: 0 15px 15px 0;
 }
 
+.clearboth {
+	clear:both;
+}
