@@ -1,0 +1,99 @@
+html {
+	background-color:black;
+}
+
+h1 {
+	color:white;
+	font-variant: small-caps;
+}
+
+h2 {
+	color:white;
+
+}
+
+p {
+	color:white;
+	margin-left:2px;
+}
+
+.logo {
+	width:50px;
+	height:50px;
+	float:center;
+	text-align:center;
+	display:block;
+}
+
+.centeredImage {
+	text-align:center;
+	display:block;
+
+}
+
+#banner {
+	border-width:1pt;
+	border-style:solid;
+	border-color:white;
+	width:100%;
+	min-height: 150px
+}
+
+#twoColumnOne {
+	border-width:1pt;
+	border-style:solid;
+	border-color:red;
+	width:20%;
+	float:left;
+	min-height:700px;
+
+}
+
+#twoColumnTwo {
+	border-width:1pt;
+	border-style:solid;
+	border-color:white;
+	width:79%;
+	float:left;
+	min-height:700px;
+	padding:3px;
+
+}
+
+#threeColumnOne {
+	border-width:1pt;
+	border-style:solid;
+	border-color:red;
+	width:20%;
+	float:left;
+	min-height:700px;
+}
+
+#threeColumnTwo {
+	border-width:1pt;
+	border-style:solid;
+	border-color:white;
+	width:39.5%;
+	float:left;
+	min-height:700px;
+}
+
+#threeColumnThree {
+	border-width:1pt;
+	border-style:solid;
+	border-color:white;
+	width:39.5%;
+	float:left;
+	min-height:700px;
+}
+
+.column-text {
+	font-family:Times;
+	font-style:italic;
+}
+
+.thumbnail { 
+	width:150px;
+	height:150px;
+}
+
